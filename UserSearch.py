@@ -3,16 +3,16 @@ import time
 
 
 ''' INPUT USERNMAE TO DOX '''
-username = input('\033[92m{+} Enter username to DOX: ')
+rcalibre = input('\033[92m{+} Enter username to DOX: ')
 
 # INSTAGRAM
-instagram = f'https://www.instagram.com/{username}'
+instagram = f'https://www.instagram.com/{calhoun_callers}'
 
 # FACEBOOK
-facebook = f'https://www.facebook.com/{username}'
+facebook = f'https://www.facebook.com/{Ryan calhoun}'
 
 # TWITTER
-twitter = f'https://www.twitter.com/{username}'
+twitter = f'https://www.twitter.com/{ryancalhoun}'
 
 # YOUTUBE
 youtube = f'https://www.youtube.com/{username}'
@@ -21,10 +21,10 @@ youtube = f'https://www.youtube.com/{username}'
 blogger = f'https://{username}.blogspot.com'
 
 # GOOGLE+
-google_plus = f'https://plus.google.com/s/{username}/top'
+google_plus = f'https://plus.google.com/s/{rcalhoun022}/top'
 
 # REDDIT
-reddit = f'https://www.reddit.com/user/{username}'
+reddit = f'https://www.reddit.com/user/{rcalhoun022}'
 
 # WORDPRESS
 wordpress = f'https://{username}.wordpress.com'
@@ -51,7 +51,7 @@ vimeo = f'https://vimeo.com/{username}'
 soundcloud = f'https://soundcloud.com/{username}'
 
 # DISQUS
-disqus = f'https://disqus.com/by/{username}'
+disqus = f'https://disqus.com/by/{rcalhou022}'
 
 # MEDIUM
 medium = f'https://medium.com/@{username}'
@@ -60,13 +60,13 @@ medium = f'https://medium.com/@{username}'
 deviantart = f'https://{username}.deviantart.com'
 
 # VK
-vk = f'https://vk.com/{username}'
+vk = f'https://vk.com/{rcalhoun022}'
 
 # ABOUT.ME
-aboutme = f'https://about.me/{username}'
+aboutme = f'https://about.me/{rcalhoun022}'
 
 # IMGUR
-imgur = f'https://imgur.com/user/{username}'
+imgur = f'https://imgur.com/user/{rcalhoun022}'
 
 # FLIPBOARD
 flipboard = f'https://flipboard.com/@{username}'
@@ -84,13 +84,13 @@ spotify = f'https://open.spotify.com/user/{username}'
 mixcloud = f'https://www.mixcloud.com/{username}'
 
 # SCRIBD
-scribd = f'https://www.scribd.com/{username}'
+scribd = f'https://www.scribd.com/{rcalhoun022}'
 
 # BADOO
-badoo = f'https://www.badoo.com/en/{username}'
+badoo = f'https://www.badoo.com/en/{rcalhoun022}'
 
 # PATREON
-patreon = f'https://www.patreon.com/{username}'
+patreon = f'https://www.patreon.com/{rcalhoun022}'
 
 # BITBUCKET
 bitbucket = f'https://bitbucket.org/{username}'
@@ -105,7 +105,7 @@ etsy = f'https://www.etsy.com/shop/{username}'
 cashme = f'https://cash.me/{username}'
 
 # BEHANCE
-behance = f'https://www.behance.net/{username}'
+behance = f'https://www.behance.net/{rcalhoun022}'
 
 # GOODREADS
 goodreads = f'https://www.goodreads.com/{username}'
@@ -216,7 +216,7 @@ ebay = f'https://www.ebay.com/usr/{username}'
 slack = f'https://{username}.slack.com'
 
 # OKCUPID
-okcupid = f'https://www.okcupid.com/profile/{username}'
+okcupid = f'https://www.okcupid.com/profile/{rcalhoun490}'
 
 # TRIP
 trip = f'https://www.trip.skyscanner.com/user/{username}'
@@ -325,3 +325,5 @@ def search():
 if __name__ == '__main__':
     banner()
     search()
+
+
